@@ -1,3 +1,3 @@
-module github.com/codemodify/systemkit-logging
+module github.com/remoteit/systemkit-logging
 
 go 1.13
